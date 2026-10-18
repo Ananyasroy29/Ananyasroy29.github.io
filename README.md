@@ -10,6 +10,7 @@ Publication target: https://ananyasroy29.github.io/
 - `styles.css`: responsive layout, keyboard focus, reduced motion, and print styles.
 - `script.js`: accessible mobile navigation and footer year.
 - `assets/`: original schematic flow illustration and site branding.
+- `assets/ananya-singha-roy.jpg`: supplied profile photo, displayed beside the introduction.
 - `.nojekyll`: supports serving this folder as a standalone GitHub Pages site.
 - `sitemap.xml`: canonical page URL.
 
