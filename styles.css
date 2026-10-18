@@ -5,9 +5,10 @@
 /* Application focus and accessible reading details. */
 .hero-visual{margin:0;min-width:0}
 .hero-visual img{height:auto}
-.hero-profile{width:100%;max-width:360px;justify-self:center}
+.hero-profile{width:100%;max-width:260px;justify-self:center}
 .hero-profile img{aspect-ratio:auto}
-@media(max-width:700px){.hero-profile{max-width:320px}}
+.hero-profile .visual-caption{padding:16px 20px}
+@media(max-width:700px){.hero-profile{max-width:220px}}
 .hero-visual .visual-caption>span:last-of-type{color:#b9cadf;font-size:12px}
 .visual-caption small{color:#b9cadf;font-size:10px;margin-top:5px}
 .application-status{display:flex;align-items:center;gap:12px;color:#125c66;font-size:12px;font-weight:700;margin:24px 0 0}
